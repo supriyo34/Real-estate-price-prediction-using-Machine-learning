@@ -1,17 +1,17 @@
-Real Estate Price Prediction using Machine Learning
+# Real Estate Price Prediction using Machine Learning
 
 
 
-Overview
+# Overview
 This project aims to predict real estate prices in Bangalore using machine learning techniques. The goal is to provide insights into property 
 values based on various features like square footage, the number of bedrooms, bathrooms, and location. Accurate price predictions can be valuable 
 for homebuyers, sellers, and real estate investors.
 
-Dataset
+# Dataset
 The dataset for this project is sourced from Kaggle and is available here. It contains information about real estate listings in Bangalore, including 
 details such as location, size (number of bedrooms), total square footage, price, and more.
 
-Project Structure
+# Project Structure
 The project is organized as follows:
 
 Data Loading and Cleaning: The dataset is loaded into a Pandas DataFrame, and initial data cleaning is performed. Missing values are handled, and unnecessary 
